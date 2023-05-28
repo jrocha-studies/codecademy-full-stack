@@ -1,0 +1,23 @@
+# Browsers that we support
+
+cover 99.5% and supports flexbox-gap # 91.8%
+
+# ==============
+# Best practices
+# ==============
+
+# Respect browsers diversity and do not select browsers directly.
+# Combine `last 1 version`, `not dead` with `>0.2%`.
+# Last n versions adds too many dead browsers without popular versions.
+# Just `>0.2%` make popular browsers enve more popular, so we have a monopoly.
+# Don't remove browsers: Opera Mini and QQ have their market.
+
+# ==================
+# Another good ideas
+# ==================
+
+# >0.5%, last 2 versions, Firefox ESR, not dead # defaults
+# cover 99.5% and supports flexbox-gap # 91.8%
+# cover 95% and supports flexbox-gap # 90.6%
+# >0.5% and supports flexbox-gap, Firefox ESR, not dead #86,2%
+# >0.1% and supports flexbox-gap, Firefox ESR, not dead #89,5%
