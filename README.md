@@ -45,6 +45,16 @@ Projects from Codecademy's CSS, JavaScript, React and Node.js courses, mostly fr
 - Making A Website Accessible
 - **Portfolio Project: Personal Portfolio Website**
 
+| n   | Name                     | Subject                         | Status | Folder                         |
+| --- | ------------------------ | ------------------------------- | ------ | ------------------------------ |
+| 1   | Kelvin Weather           | JavaScript Syntax: Introduction | ✔️      | kelvin-weather-javascript      |
+| 2   | Dog Years                | JavaScript Syntax: Introduction | ✔️      | dog-years-javascript           |
+| 3   | Magic Eight Ball         | JavaScript Syntax: Conditionals | ✔️      | magic-eight-ball-1             |
+| 4   | Race Day                 | JavaScript Syntax: Conditionals | ✔️      | race-day                       |
+| 5   | Rock, Paper, or Scissors | JavaScript Syntax: Functions    | ✔️      | rock-paper-scissors-javascript |
+| 6   | Sleep Debt Calculator    | JavaScript Syntax: Functions    | ✔️      | sleep-debt-calculator          |
+| 7   | Training Days            | JavaScript Syntax: Scope        | ✔️      | training-days                  |
+
 ### Extra courses
 
 #### [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
