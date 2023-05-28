@@ -11,7 +11,7 @@ Projects from Codecademy's CSS, JavaScript, React and Node.js courses, mostly fr
 | 3   | New York City Blog                | Semantic HTML                      | ✔️      | semantic-html-nyc-blog                 |
 | 4   | Healthy Recipes                   | CSS Selectors                      | ✔️      | css-selectors-1-healthy-recipes        |
 | 5   | Olivia Woodruff Portfolio         | CSS Visual Rules                   | ✔️      | css-visual-rules-project-portfolio     |
-| 6   | Davie's Burgers                   | Box Model                          | ✔️      | box-model-on-davies-burguer            |
+| 6   | Davie's Burgers                   | Box Model                          | ✔️      | box-model-on-davies-burgers            |
 | 7   | Broadway Design                   | CSS Display and Positioning        | ✔️      | broadway-design                        |
 | 8   | Dasmoto's Arts & Crafts           | Developing with CSS                | ✔️      | dasmotos-arts-crafts                   |
 | 9   | Bicycle World                     | Command Line for Building Websites | ✔️      | bicycle-word                           |
