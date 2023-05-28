@@ -1,0 +1,100 @@
+.breadcrumb {
+  padding: 0;
+  margin: 0 0 10px;
+}
+
+.breadcrumb a {
+  color: #fff;
+  background: darkcyan;
+  text-decoration: none;
+  position: relative;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  margin-right: 15px;
+  padding: 0 5px;
+  display: block;
+  font-size: 16px;
+  text-transform: uppercase;
+  transition-duration: 0s;
+}
+
+.breadcrumb a::before,
+.breadcrumb a::after {
+  content: "";
+  position: absolute;
+  border-color: darkcyan;
+  border-style: solid;
+  border-width: 15px 5px;
+}
+
+.breadcrumb a::before {
+  left: -10px;
+  border-left-color: transparent;
+}
+
+.breadcrumb a::after {
+  left: 100%;
+  border-color: transparent;
+  border-left-color: darkcyan;
+}
+
+.breadcrumb a:hover::before,
+.breadcrumb a:focus::before {
+  border-color: blue;
+  border-left-color: transparent;
+}
+
+.breadcrumb a:hover::after,
+.breadcrumb a:focus::after {
+  border-left-color: blue;
+}
+
+.breadcrumb a:hover,
+.breadcrumb a:focus {
+  background-color: blue;
+}
+
+.breadcrumb li {
+  float: left;
+  margin: 0;
+  list-style: none;
+}
+
+.breadcrumb li.attribute > a {
+  background: lightseagreen;
+  margin-right: 9px;
+  right: 5px;
+}
+
+.breadcrumb > li.attribute > a::before,
+.breadcrumb > li.attribute > a::after {
+  border-color: lightseagreen;
+}
+
+.breadcrumb > li.attribute > a::before {
+  left: -10px;
+  border-left-color: transparent;
+}
+
+.breadcrumb > li.attribute > a::after {
+  left: 100%;
+  border-color: transparent;
+  border-left-color: lightseagreen;
+}
+
+ul:hover > li:not(:hover),
+ul:hover > li:not(:focus) {
+  opacity: 0.5;
+}
+
+.breadcrumb > li.attribute > a:hover::before,
+.breadcrumb > li.attribute > a:focus::before {
+  border-color: blue;
+  border-left-color: transparent;
+}
+
+.breadcrumb > li.attribute > a:hover::after,
+.breadcrumb > li.attribute > a:focus::after {
+  border-left-color: blue;
+}
