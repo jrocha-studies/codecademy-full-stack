@@ -4,6 +4,14 @@ Projects from Codecademy's CSS, JavaScript, React and Node.js courses, mostly fr
 
 ## Full Stack Engineer | Web Development Foundations
 
+- Welcome to the Full-Stack Engineer Path
+- Fundamentals of HTML
+- Fundamentals of CSS
+- Developing Websites Locally
+- Deploying Websites
+- Improved Styling with CSS
+- Making a Website Responsive
+
 | n   | Name                              | Subject                            | Status | Source Code                                                                                                                                                 |
 | --- | --------------------------------- | ---------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | HTML Fashion Blog                 | HTML Structure                     | ✔️      | [html-fashion-blog](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/html-fashion-blog)                                           |
