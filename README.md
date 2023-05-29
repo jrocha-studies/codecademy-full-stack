@@ -4,26 +4,26 @@ Projects from Codecademy's CSS, JavaScript, React and Node.js courses, mostly fr
 
 ## Full Stack Engineer | Web Development Foundations
 
-| n   | Name                              | Subject                            | Status | Folder                                 |
-| --- | --------------------------------- | ---------------------------------- | ------ | -------------------------------------- |
-| 1   | HTML Fashion Blog                 | HTML Structure                     | ✔️      | html-fashion-blog                      |
-| 2   | HTML Wine Festival Schedule       | HTML Tables                        | ✔️      | html-wine-festival-schedule            |
-| 3   | New York City Blog                | Semantic HTML                      | ✔️      | semantic-html-nyc-blog                 |
-| 4   | Healthy Recipes                   | CSS Selectors                      | ✔️      | css-selectors-1-healthy-recipes        |
-| 5   | Olivia Woodruff Portfolio         | CSS Visual Rules                   | ✔️      | css-visual-rules-project-portfolio     |
-| 6   | Davie's Burgers                   | Box Model                          | ✔️      | box-model-on-davies-burgers            |
-| 7   | Broadway Design                   | CSS Display and Positioning        | ✔️      | broadway-design                        |
-| 8   | Dasmoto's Arts & Crafts           | Developing with CSS                | ✔️      | dasmotos-arts-crafts                   |
-| 9   | Bicycle World                     | Command Line for Building Websites | ✔️      | bicycle-word                           |
-| 10  | Daily Buzz                        | Command Line for Building Websites | ✔️      | daily-buzz                             |
-| 11  | Paint Store                       | CSS Colors                         | ✔️      | color-paint-store                      |
-| 12  | Typography II                     | CSS Typography                     | ✔️      | typography-ii                          |
-| 13  | CP: Build Your Own Cheat Sheet    | Challenge Project                  | ✔️      | independent-project-html-documentation |
-| 14  | The Summit                        | Learn Links and Buttons            | ✔️      | links-buttons-prj                      |
-| 15  | FreshDeals: Blueberries           | Secondary Navigation               | ✔️      | ui-breadcrumb-proj                     |
-| 16  | CP: Build a Website Design System | Challenge Project                  | ✔️      | independent-project-web-design-system  |
-| 17  | Flexbox: To-Do App                | Layout with Flexbox                | ✔️      | flexbox-to-do-app                      |
-| 18  | Off-Platform Project: Tea Cozy    | Layout with Flexbox                | ✔️      | tea-cozy                               |
+| n   | Name                              | Subject                            | Status | Folder                                                                                                                                                      |
+| --- | --------------------------------- | ---------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | HTML Fashion Blog                 | HTML Structure                     | ✔️      | [html-fashion-blog](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/html-fashion-blog)                                           |
+| 2   | HTML Wine Festival Schedule       | HTML Tables                        | ✔️      | [html-wine-festival-schedule](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/html-wine-festival-schedule)                       |
+| 3   | New York City Blog                | Semantic HTML                      | ✔️      | [semantic-html-nyc-blog](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/semantic-html-nyc-blog)                                 |
+| 4   | Healthy Recipes                   | CSS Selectors                      | ✔️      | [css-selectors-1-healthy-recipes](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/css-selectors-1-healthy-recipes)               |
+| 5   | Olivia Woodruff Portfolio         | CSS Visual Rules                   | ✔️      | [css-visual-rules-project-portfolio](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/css-visual-rules-project-portfolio)         |
+| 6   | Davie's Burgers                   | Box Model                          | ✔️      | [box-model-on-davies-burgers](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/box-model-on-davies-burgers)                       |
+| 7   | Broadway Design                   | CSS Display and Positioning        | ✔️      | [broadway-design](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/broadway-design)                                               |
+| 8   | Dasmoto's Arts & Crafts           | Developing with CSS                | ✔️      | [dasmotos-arts-crafts](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/dasmotos-arts-crafts)                                     |
+| 9   | Bicycle World                     | Command Line for Building Websites | ✔️      | [bicycle-word](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/bicycle-word)                                                     |
+| 10  | Daily Buzz                        | Command Line for Building Websites | ✔️      | [daily-buzz](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/daily-buzz)                                                         |
+| 11  | Paint Store                       | CSS Colors                         | ✔️      | [color-paint-store](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/color-paint-store)                                           |
+| 12  | Typography II                     | CSS Typography                     | ✔️      | [typography-ii](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/typography-ii)                                                   |
+| 13  | CP: Build Your Own Cheat Sheet    | Challenge Project                  | ✔️      | [independent-project-html-documentation](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/independent-project-html-documentation) |
+| 14  | The Summit                        | Learn Links and Buttons            | ✔️      | [links-buttons-prj](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/links-buttons-prj)                                           |
+| 15  | FreshDeals: Blueberries           | Secondary Navigation               | ✔️      | [ui-breadcrumb-proj](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/ui-breadcrumb-proj)                                         |
+| 16  | CP: Build a Website Design System | Challenge Project                  | ✔️      | [independent-project-web-design-system](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/independent-project-web-design-system)   |
+| 17  | Flexbox: To-Do App                | Layout with Flexbox                | ✔️      | [flexbox-to-do-app](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/flexbox-to-do-app)                                           |
+| 18  | Off-Platform Project: Tea Cozy    | Layout with Flexbox                | ✔️      | [tea-cozy](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/tea-cozy)                                                             |
 
 ### Extra courses
 
@@ -45,15 +45,15 @@ Projects from Codecademy's CSS, JavaScript, React and Node.js courses, mostly fr
 - Making A Website Accessible
 - **Portfolio Project: Personal Portfolio Website**
 
-| n   | Name                     | Subject                         | Status | Folder                         |
-| --- | ------------------------ | ------------------------------- | ------ | ------------------------------ |
-| 1   | Kelvin Weather           | JavaScript Syntax: Introduction | ✔️      | kelvin-weather-javascript      |
-| 2   | Dog Years                | JavaScript Syntax: Introduction | ✔️      | dog-years-javascript           |
-| 3   | Magic Eight Ball         | JavaScript Syntax: Conditionals | ✔️      | magic-eight-ball-1             |
-| 4   | Race Day                 | JavaScript Syntax: Conditionals | ✔️      | race-day                       |
-| 5   | Rock, Paper, or Scissors | JavaScript Syntax: Functions    | ✔️      | rock-paper-scissors-javascript |
-| 6   | Sleep Debt Calculator    | JavaScript Syntax: Functions    | ✔️      | sleep-debt-calculator          |
-| 7   | Training Days            | JavaScript Syntax: Scope        | ✔️      | training-days                  |
+| n   | Name                     | Subject                         | Status | Folder                                                                                                                                      |
+| --- | ------------------------ | ------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Kelvin Weather           | JavaScript Syntax: Introduction | ✔️      | [kelvin-weather-javascript](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/kelvin-weather-javascript)           |
+| 2   | Dog Years                | JavaScript Syntax: Introduction | ✔️      | [dog-years-javascript](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/dog-years-javascript)                     |
+| 3   | Magic Eight Ball         | JavaScript Syntax: Conditionals | ✔️      | [magic-eight-ball-1](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/magic-eight-ball-1)                         |
+| 4   | Race Day                 | JavaScript Syntax: Conditionals | ✔️      | [race-day](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/race-day)                                             |
+| 5   | Rock, Paper, or Scissors | JavaScript Syntax: Functions    | ✔️      | [rock-paper-scissors-javascript](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/rock-paper-scissors-javascript) |
+| 6   | Sleep Debt Calculator    | JavaScript Syntax: Functions    | ✔️      | [sleep-debt-calculator](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/sleep-debt-calculator)                   |
+| 7   | Training Days            | JavaScript Syntax: Scope        | ✔️      | [training-days](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/training-days)                                   |
 
 ### Extra courses
 
