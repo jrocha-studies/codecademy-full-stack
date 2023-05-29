@@ -4,7 +4,7 @@ Projects from Codecademy's CSS, JavaScript, React and Node.js courses, mostly fr
 
 ## Full Stack Engineer | Web Development Foundations
 
-| n   | Name                              | Subject                            | Status | Folder                                                                                                                                                      |
+| n   | Name                              | Subject                            | Status | Source Code                                                                                                                                                 |
 | --- | --------------------------------- | ---------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | HTML Fashion Blog                 | HTML Structure                     | ✔️      | [html-fashion-blog](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/html-fashion-blog)                                           |
 | 2   | HTML Wine Festival Schedule       | HTML Tables                        | ✔️      | [html-wine-festival-schedule](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/html-wine-festival-schedule)                       |
@@ -45,7 +45,7 @@ Projects from Codecademy's CSS, JavaScript, React and Node.js courses, mostly fr
 - Making A Website Accessible
 - **Portfolio Project: Personal Portfolio Website**
 
-| n   | Name                     | Subject                         | Status | Folder                                                                                                                                      |
+| n   | Name                     | Subject                         | Status | Source Code                                                                                                                                 |
 | --- | ------------------------ | ------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Kelvin Weather           | JavaScript Syntax: Introduction | ✔️      | [kelvin-weather-javascript](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/kelvin-weather-javascript)           |
 | 2   | Dog Years                | JavaScript Syntax: Introduction | ✔️      | [dog-years-javascript](https://github.com/jrocha-studies/codecademy-full-stack/tree/main/projects/dog-years-javascript)                     |
